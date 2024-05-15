@@ -163,7 +163,7 @@ endmodule
 ![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-2/assets/165649785/fa3cde45-2bea-4de7-8837-19faa4dc3133)
 
 # RESULT:
-        Thus simulation and synthesis of ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER,
+Thus simulation and synthesis of ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER,
 MAGNITUDE COMPARATOR using VIVADO 2023.1 was done and output verified successfully
 
 
